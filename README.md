@@ -22,9 +22,11 @@ Intially, we started with the basics of Electromagnetic Theory and learnt the pr
  
 Then each one of us in our team made a rough sketch of printed circuit board design. And finalized the best one out of those.Finally, we improvised the pcb design and built it on easyeda platform and generated a gerber file of it.
 
-### Conclusion : The purpose of this project is to learn academic stuff and put it into real life application.We also learnt how to maintain harmony in our team when there were conflicts.Our team has learnt the basics of PCB and Flutter. We even developed our own strategies to manage the time and submit the given tasks within the deadlines.
+### Conclusion :
+The purpose of this project is to learn academic stuff and put it into real life application.We also learnt how to maintain harmony in our team when there were conflicts.Our team has learnt the basics of PCB and Flutter. We even developed our own strategies to manage the time and submit the given tasks within the deadlines.
 
-### References :1. http://www.cnet.com/home/kitchen-and-householhousehold/appliance-science-the-hot-physics-of-induction-cooktops/
+### References :
+1. http://www.cnet.com/home/kitchen-and-householhousehold/appliance-science-the-hot-physics-of-induction-cooktops/
 2. https://youtu.be/bdam6VY0Db0
 3. https://youtu.be/B5mUq9daiyU
 4. https://youtube.com/playlist?list=PLE1qlkmzXrwSp1nBlkF8qCC2p2mUKT9Y0
