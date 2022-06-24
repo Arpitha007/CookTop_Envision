@@ -1,6 +1,6 @@
 # Induction CookTop
 ## Mentors : 
-Gayathri,
+Gayathri Kattimani,
 Rishee K,
 Meghna Uppuluri
 ## Mentees : 
